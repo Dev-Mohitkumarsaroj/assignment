@@ -1,0 +1,34 @@
+.container {
+    /* display: inline-block; */
+    background-color: yellow;
+    color: white;
+    text-align: center;
+    height: 800px;
+    width: 1243px;
+
+}
+
+.img {
+
+    max-width: -1px;
+    height: 1px;
+}
+
+.card {
+    display: inline-block;
+    padding: 137px 296px;
+    margin: 438px -2px;
+    border: 15px solid red;
+    background-color: red;
+
+
+}
+
+#card-1 {
+    border-top-right-radius: 160px;
+}
+
+#card-2 {
+    border-top-left-radius: 160px;
+
+}
